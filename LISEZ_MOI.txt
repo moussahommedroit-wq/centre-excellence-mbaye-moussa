@@ -1,0 +1,7 @@
+C.E.M.M. INFINITY — ÉDITION FONDATRICE
+
+1. Ouvrez index.html pour lancer le site.
+2. Toutes les pages principales sont déjà reliées : cours, documents, sujets-corrigés, vidéos, orientation, résultats, enseignants, actualités et contact.
+3. Les fonctions Firebase existantes ont été conservées.
+4. Pour importer dans SPCK : sélectionnez tous les fichiers et le dossier assets, puis acceptez le remplacement des anciens fichiers.
+5. Cette archive devient la base unique du projet C.E.M.M. Infinity.
